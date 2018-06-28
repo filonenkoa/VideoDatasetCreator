@@ -4,6 +4,8 @@ A tool to generate a cropped sequence of frames from video files written in C# w
 This tool is created to generate a sequence of images from the specified region and frames slot of the input video. It is better to have 2 monitors to work with this tool.
 Binaries compiled for Windows can be found in the _VideoDatasetCreator\bin\Release_ folder
 
+[![Watch the video](http://islab.ulsan.ac.kr/files/graphics/filonenko/vdc_demo.jpg)](https://youtu.be/-ijUDRW9N1o)
+
 # Features:
 - Video sequence preview
 - An automatic increment of numbers in folder names 
