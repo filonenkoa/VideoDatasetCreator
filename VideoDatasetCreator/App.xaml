@@ -1,0 +1,17 @@
+﻿<Application x:Class="VideoDatasetCreator.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:VideoDatasetCreator"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style x:Key="ButtonDefaultStyle">
+            <Setter Property="Control.Background" Value="LightGray"></Setter>
+        </Style>
+        <Style x:Key="ButtonGoodStyle">
+            <Setter Property="Control.Background" Value="#FFB3F3B3"></Setter>
+        </Style>
+        <Style x:Key="ButtonBadStyle">
+            <Setter Property="Control.Background" Value="#FFFF8686"></Setter>
+        </Style>
+    </Application.Resources>
+</Application>
